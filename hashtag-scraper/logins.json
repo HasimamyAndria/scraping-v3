@@ -1,0 +1,51 @@
+{
+    "facebook": [
+        {
+            "email": "rakotonomenjanaharymario9@gmail.com",
+            "password": "_kreBY!u4&jxbiX"
+        },
+        {
+            "email": "joharyandrianjafimanohisolo@gmail.com",
+            "password": "dsE&=9(xL"
+        },
+        {
+            "email": "sonalimampiemo@gmail.com",
+            "password": "Kl#23pol106"
+        }
+    ],
+    "twitter": [
+        {
+            "username": "@sonalimampiemo",
+            "email": "sonalimampiemo@gmail.com",
+            "password": "Kl#23pol106"
+        }
+    ],
+    "instagram": [
+        {
+            "username": "sonalimampiemo",
+            "email": "sonalimampiemo@gmail.com",
+            "password": "Kl#23pol106"
+        },
+        {
+            "username": "feno.fitia",
+            "email": "0340851090",
+            "password": "0gFGm!4ze"
+        }
+    ],
+    "youtube": [
+        {
+            "email": "sonalimampiemo@gmail.com",
+            "password": "Kl#23pol106"
+        }
+    ],
+    "linkedin": [
+        {
+            "email": "sonalimampiemo@gmail.com",
+            "password": "Kl#23pol106"
+        },
+        {
+            "email": "thierry0keller@gmail.com",
+            "password": "LinkedIn#pass4015"
+        }
+    ]
+}
